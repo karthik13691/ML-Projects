@@ -8,7 +8,7 @@ Language: Python
 Libraries:
 * Pandas 
 * Numpy
-* Matplotlib..pyplot
+* Matplotlib.pyplot
 * seaborn
 * sklearn
 * nltk
