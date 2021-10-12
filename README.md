@@ -1,6 +1,6 @@
 # ML-Projects
 
-Few Machine Learning projects that I've built for learning and developing my ML skills.
+Few Machine Learning projects that I've worked on while learning and developing my ML skills.
 Here, I upload completed projects on the go as I learn/work on them.
 
 Language: Python 
