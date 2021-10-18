@@ -5,7 +5,7 @@ Here, I upload completed projects on the go as I learn/work on them.
 
 Language: Python 
 
-Libraries:
+Python Libraries:
 * Pandas 
 * Numpy
 * Matplotlib.pyplot
@@ -17,6 +17,13 @@ Libraries:
 Platform:
 * Jupyter Notebook (or) Google Colab
 
+
+Neural network:  (PyTorch)
+* torch
+* torchvision
+* torch.nn
+* torch.nn.functional
+* torch.optim
 
 
 Reference: https://www.youtube.com/playlist?app=desktop&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6
