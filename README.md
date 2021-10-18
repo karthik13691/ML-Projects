@@ -20,10 +20,8 @@ Platform:
 
 Neural network:  (PyTorch)
 * torch
+(torch.nn, torch.nn.functional, torch.Sequential, torch.optim)
 * torchvision
-* torch.nn
-* torch.nn.functional
-* torch.optim
 
 
 Reference: 
