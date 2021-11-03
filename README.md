@@ -11,8 +11,12 @@ Python Libraries:
 * Matplotlib.pyplot
 * seaborn
 * sklearn
+* metrics
 * nltk
 * re
+* difflib
+* TfidfVectorizer
+* cosine_similarity
 
 Platform:
 * Jupyter Notebook (or) Google Colab
